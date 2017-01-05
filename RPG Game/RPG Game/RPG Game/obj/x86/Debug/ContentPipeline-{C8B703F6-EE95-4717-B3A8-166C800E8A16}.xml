@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Room2.png</Source>
+      <Name>Room2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\Room2.xnb</Output>
+      <Time>2016-08-17T22:40:43.078418+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StandingForward.png</Source>
+      <Name>StandingForward</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\StandingForward.xnb</Output>
+      <Time>2016-06-06T23:14:26.4539824+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StandingBack.png</Source>
+      <Name>StandingBack</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\StandingBack.xnb</Output>
+      <Time>2016-06-07T01:01:53.6430221+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StandingLeft.png</Source>
+      <Name>StandingLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\StandingLeft.xnb</Output>
+      <Time>2016-06-07T01:01:19.5566241+01:00</Time>
+    </Item>
+    <Item>
+      <Source>StandingRight.png</Source>
+      <Name>StandingRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\StandingRight.xnb</Output>
+      <Time>2016-06-06T23:30:09.2594051+01:00</Time>
+    </Item>
+    <Item>
+      <Source>walkingForward1.png</Source>
+      <Name>walkingForward1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\walkingForward1.xnb</Output>
+      <Time>2016-06-07T01:01:19.5080902+01:00</Time>
+    </Item>
+    <Item>
+      <Source>WalkingLeft1.png</Source>
+      <Name>WalkingLeft1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\WalkingLeft1.xnb</Output>
+      <Time>2016-06-07T01:00:13.8490802+01:00</Time>
+    </Item>
+    <Item>
+      <Source>WalkingRight1.png</Source>
+      <Name>WalkingRight1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\WalkingRight1.xnb</Output>
+      <Time>2016-06-07T01:01:19.4560557+01:00</Time>
+    </Item>
+    <Item>
+      <Source>WalkingBack1.png</Source>
+      <Name>WalkingBack1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\WalkingBack1.xnb</Output>
+      <Time>2016-06-07T01:16:53.3764529+01:00</Time>
+    </Item>
+    <Item>
+      <Source>walkingForward2.png</Source>
+      <Name>walkingForward2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\walkingForward2.xnb</Output>
+      <Time>2016-06-07T01:26:53.6384179+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Door2.png</Source>
+      <Name>Door2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\Door2.xnb</Output>
+      <Time>2016-08-17T22:54:13.8644446+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Room3.png</Source>
+      <Name>Room3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\Room3.xnb</Output>
+      <Time>2016-08-18T00:21:29.7580427+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Toad.png</Source>
+      <Name>Toad</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\Toad.xnb</Output>
+      <Time>2016-08-18T01:39:43.0566348+01:00</Time>
+    </Item>
+    <Item>
+      <Source>speech.png</Source>
+      <Name>speech</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\speech.xnb</Output>
+      <Time>2016-08-18T01:56:55.2510776+01:00</Time>
+    </Item>
+    <Item>
+      <Source>Out.png</Source>
+      <Name>Out</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\Out.xnb</Output>
+      <Time>2016-08-18T02:50:34.156084+01:00</Time>
+    </Item>
+    <Item>
+      <Source>secondTB.png</Source>
+      <Name>secondTB</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\secondTB.xnb</Output>
+      <Time>2016-08-19T10:40:59.9979684+01:00</Time>
+    </Item>
+    <Item>
+      <Source>cavE.png</Source>
+      <Name>cavE</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\cavE.xnb</Output>
+      <Time>2016-08-19T17:33:57.1039027+01:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{C8B703F6-EE95-4717-B3A8-166C800E8A16}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG GameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-11-25T12:40:28.1415868+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

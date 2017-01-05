@@ -1,0 +1,17 @@
+Content\Room2.xnb
+Content\StandingForward.xnb
+Content\StandingBack.xnb
+Content\StandingLeft.xnb
+Content\StandingRight.xnb
+Content\walkingForward1.xnb
+Content\WalkingLeft1.xnb
+Content\WalkingRight1.xnb
+Content\WalkingBack1.xnb
+Content\walkingForward2.xnb
+Content\Door2.xnb
+Content\Room3.xnb
+Content\Toad.xnb
+Content\speech.xnb
+Content\Out.xnb
+Content\secondTB.xnb
+Content\cavE.xnb

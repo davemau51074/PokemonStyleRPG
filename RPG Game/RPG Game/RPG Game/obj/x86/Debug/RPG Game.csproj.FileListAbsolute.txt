@@ -1,0 +1,23 @@
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\Room2.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\StandingForward.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\StandingBack.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\StandingLeft.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\StandingRight.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\RPG Game.exe
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\RPG Game.pdb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\obj\x86\Debug\RPG Game.csprojResolveAssemblyReference.cache
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\obj\x86\Debug\RPG Game.exe
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\obj\x86\Debug\RPG Game.pdb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\walkingForward1.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\WalkingLeft1.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\WalkingRight1.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\WalkingBack1.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\walkingForward2.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\Door2.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\Room3.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\Toad.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\speech.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\Out.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\secondTB.xnb
+C:\Users\davy\Desktop\RPG Game\RPG Game\RPG Game\RPG Game\bin\x86\Debug\Content\cavE.xnb
